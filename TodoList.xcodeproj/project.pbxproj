@@ -201,6 +201,8 @@
 		FFE125D81F4AF2FB008EA686 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				FFE125DB1F4AF417008EA686 /* View */,
+				FFE125DA1F4AF40E008EA686 /* DB */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -210,6 +212,20 @@
 			children = (
 			);
 			name = Manager;
+			sourceTree = "<group>";
+		};
+		FFE125DA1F4AF40E008EA686 /* DB */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = DB;
+			sourceTree = "<group>";
+		};
+		FFE125DB1F4AF417008EA686 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
